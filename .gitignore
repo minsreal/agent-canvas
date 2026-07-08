@@ -12,6 +12,8 @@ logs/
 dist/
 __pycache__
 
+.idea/
+
 
 /test-results/
 /test-results-live/
